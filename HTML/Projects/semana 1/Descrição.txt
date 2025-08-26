@@ -1,0 +1,94 @@
+<!-- 
+📆 Roteiro (1 semana)
+Dia 1 – Estrutura base (Boilerplate + Navegação)
+
+Crie o arquivo index.html.
+
+Estruture com <!DOCTYPE html>, <html>, <head>, <body>.
+
+Adicione um título do site (seu nome ou tema).
+
+Crie um menu de navegação com links (<a>) para outras páginas:
+
+Home (index.html)
+
+Sobre (sobre.html)
+
+Projetos (projetos.html)
+
+Contato (contato.html)
+
+🔑 Use <header> e <nav> (já aprendeu blocos e semântica).
+
+Dia 2 – Página Inicial (index.html)
+
+Um <h1> com seu nome ou título do site.
+
+Uma breve apresentação (<p>).
+
+Uma imagem (<img>) sua ou ilustrativa.
+
+Uma lista de hobbies ou interesses (<ul>).
+
+Dia 3 – Página Sobre (sobre.html)
+
+Escreva um texto mais longo (2–3 parágrafos).
+
+Use <h2> para subtítulos.
+
+Crie uma tabela com sua rotina semanal de estudos (já que você viu tabelas):
+
+Colunas: Dia da semana | Horário | Atividade
+
+Use <thead>, <tbody>, <th>, <td>.
+
+Tente incluir rowspan ou colspan.
+
+Dia 4 – Página Projetos (projetos.html)
+
+Liste alguns projetos fictícios que você gostaria de fazer.
+
+Use lista ordenada (<ol>) para prioridades.
+
+Para cada projeto, coloque um link (<a>) que leva a uma página de detalhe (ex: projeto1.html, projeto2.html).
+
+Dentro de cada página de detalhe, descreva o projeto e adicione uma imagem ilustrativa.
+
+Dia 5 – Página Contato (contato.html)
+
+Crie um formulário de contato com:
+
+Nome (<input type="text">)
+
+Email (<input type="email">)
+
+Assunto (<input type="text">)
+
+Mensagem (<textarea>)
+
+Botão de enviar (<button>).
+
+Use <label> corretamente para cada campo.
+
+Adicione também uma lista de links de redes sociais (<ul> + <a>).
+
+Dia 6 – Revisão & Detalhes Extras
+
+Adicione comentários (<!-- -->)
+ <!-- explicando seu código.
+
+Crie uma página de "Receitas" ou "Artigos" (livre escolha) com listas e tabelas.
+
+Insira pelo menos um <sup> e <sub> (frações, fórmulas ou notas de rodapé).
+
+Adicione um <hr> para separar seções.
+
+Dia 7 – Organização Final
+
+Revise todas as páginas.
+
+Garanta que todos os links funcionem.
+
+Teste no navegador clicando entre as páginas.
+
+Se possível, coloque tudo em uma pasta organizada (index.html, sobre.html, etc). -->
