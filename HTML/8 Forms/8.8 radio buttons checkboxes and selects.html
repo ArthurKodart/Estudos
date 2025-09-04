@@ -1,0 +1,38 @@
+<!-- checkbox you can use the label element to improve accessibility -->
+ <form action="/kodart">
+ <input type="checkbox" name="checkbox" id="checkbox1">
+ <label for="checkbox1">Você aceita os termos?</label>
+ <button>submit</button>
+ <!-- we can begin checked putting the attribute checked -->
+<input type="checkbox" name="checkbox" id="checkbox2" checked>
+ </form>
+
+ <!--  radio buttons are similar to checkboxes but just one can be checked -->
+<!-- to conect radio buttons they need to have the same name -->
+ <!-- on radio buttons you need to have the attribute value
+  it will define the value that will be submitted  to the form-->
+ <form action="/kodart">
+    <input type="radio" name="radio" id="radio1" value="opcao1"> 
+    <label for="radio1">Opção 1</label> <br>
+    <input type="radio" name="radio" id="radio2" value="opcao2"> 
+    <label for="radio2">Opção 2</label> <br>
+    <input type="radio" name="radio" id="radio3" value="opcao3"> 
+    <label for="radio3">Opção 3</label> <br>
+    <button>submit</button>
+ </form>
+
+<!-- select element -->
+<!-- basically is a dropdown menu -->
+<!-- its a combination of the select element and the option elements -->
+<!-- option elements uses value too -->
+    
+ <form action="/kodart">
+    <select name="livros" id="livros">
+        <option value="">choose a book</option>
+        <option value="livro1">hora do medo</option>
+        <option value="livro2">a hora do pesadelo</option>
+        <!-- you can use selected atribute to pre select a element -->
+        <option value="livro3" selected>a hora do terror</option>
+    </select>
+    <button>submit</button>
+</form>
