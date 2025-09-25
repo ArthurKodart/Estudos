@@ -1,0 +1,42 @@
+h1 {
+    text-decoration:  green double underline;
+}
+/* The text-decoration CSS property is used to set the text formatting to underline, overline, line-through or none. */
+p {
+    text-decoration: line-through;
+}
+/*
+ Keyword values
+ text-decoration: underline;
+ text-decoration: overline;
+ text-decoration: line-through;
+ text-decoration: none;
+
+ Global values
+ text-decoration: inherit;
+ text-decoration: initial;
+ text-decoration: revert;
+ text-decoration: revert-layer;
+ text-decoration: unset;
+*/
+
+/*Values
+text-decoration-line
+Sets the kind of decoration used, such as underline or line-through.
+
+text-decoration-color
+Sets the color of the decoration.
+
+text-decoration-style
+Sets the style of the line used for the decoration, such as solid, wavy, or dashed.
+
+text-decoration-thickness
+Sets the thickness of the line used for the decoration.
+*/
+
+/*solid   |
+  double  |
+  dotted  |
+  dashed  |
+  wavy 
+  */

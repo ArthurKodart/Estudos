@@ -1,0 +1,33 @@
+h1{
+    font-weight: bold;
+}
+/*diz o qual em negrito vai estar a fonte*/
+p{
+    font-weight: 300;
+}
+/* <font-weight-absolute> keyword values
+font-weight: normal;
+font-weight: bold;
+
+ <font-weight-absolute> numeric values [1,1000] 
+font-weight: 100;
+font-weight: 200;
+font-weight: 300;
+font-weight: 400; normal 
+font-weight: 500;
+font-weight: 600;
+font-weight: 700; bold 
+font-weight: 800;
+font-weight: 900;
+
+Keyword values relative to the parent 
+font-weight: lighter;
+font-weight: bolder;
+
+Global values 
+font-weight: inherit;
+font-weight: initial;
+font-weight: revert;
+font-weight: revert-layer;
+font-weight: unset;
+*/

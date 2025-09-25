@@ -1,0 +1,30 @@
+h1 {
+    text-align: center;
+}
+/* The text-align CSS property sets the horizontal alignment of the inline-level 
+   content inside a block element or table-cell box.
+   This means it works like vertical-align but in the horizontal direction.*/
+p{
+    text-align: justify;
+}
+/*
+ Keyword values 
+text-align: start;
+text-align: end;
+text-align: left;
+text-align: right;
+text-align: center;
+text-align: justify;
+text-align: match-parent;
+
+Block alignment values (Non-standard syntax) 
+text-align: -moz-center;
+text-align: -webkit-center;
+
+Global values 
+text-align: inherit;
+text-align: initial;
+text-align: revert;
+text-align: revert-layer;
+text-align: unset;
+*/
