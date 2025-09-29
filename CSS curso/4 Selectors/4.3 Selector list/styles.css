@@ -1,0 +1,4 @@
+h1, p {
+    color: green;
+}
+/* h1, p (element) Selector selects all <h1> and <p> elements of the page */
